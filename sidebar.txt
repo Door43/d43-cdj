@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cdj:home|Door43 (cdj)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cdj|d43-cdj repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cdj/archive/master.zip|d43-cdj.zip]]
+
+**Recent Changes**
+{{changes>ns = cdj}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cdj|Ethnologue data]]
+
